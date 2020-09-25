@@ -18,3 +18,16 @@ The following files contain the code for the experiment used in the paper and sh
 4. `interpolation.m`
 
 while `svfun.m` contains the semi-variance function which should be obtained using `cftool` in a step in `semi_variogram.m`. Some settings can be modified in these scripts to observe changes in the results.
+
+## Citation
+If you find our work useful for your research, please consider citing:
+> @article{zhang20203d,  
+  &nbsp;&nbsp;&nbsp;&nbsp;title={3D reconstruction of internal wood decay using photogrammetry and sonic tomography},  
+  &nbsp;&nbsp;&nbsp;&nbsp;author={Zhang, Junjie and Khoshelham, Kourosh},  
+  &nbsp;&nbsp;&nbsp;&nbsp;journal={The Photogrammetric Record},  
+  &nbsp;&nbsp;&nbsp;&nbsp;volume={35},  
+  &nbsp;&nbsp;&nbsp;&nbsp;number={171},  
+  &nbsp;&nbsp;&nbsp;&nbsp;pages={357--374},  
+  &nbsp;&nbsp;&nbsp;&nbsp;year={2020},  
+  &nbsp;&nbsp;&nbsp;&nbsp;publisher={Wiley Online Library}  
+}
